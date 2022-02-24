@@ -1,4 +1,7 @@
 void main() {
+  var phi = 3.14;
   var r = 20;
-  print(3.14 * r * r);
+  var luas = phi * r * r;
+
+  print(luas);
 }
